@@ -1,5 +1,18 @@
 {
   "dependencies": {
     "express": "4.18.2"
-  }
+  },
+  "name": "multiplayer-game",
+  "description": "This repository contains the source code of a multiplayer game.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "multiplayer-game"
+  },
+  "author": "xarcraftcoding",
+  "license": "ISC"
 }
